@@ -1,0 +1,6 @@
+C:\Users\conne\source\repos\AdvancedLogger\AdvancedLogger\bin\Debug\AdvancedLogger.dll.config
+C:\Users\conne\source\repos\AdvancedLogger\AdvancedLogger\bin\Debug\AdvancedLogger.dll
+C:\Users\conne\source\repos\AdvancedLogger\AdvancedLogger\bin\Debug\AdvancedLogger.pdb
+C:\Users\conne\source\repos\AdvancedLogger\AdvancedLogger\obj\Debug\AdvancedLogger.csproj.CoreCompileInputs.cache
+C:\Users\conne\source\repos\AdvancedLogger\AdvancedLogger\obj\Debug\AdvancedLogger.dll
+C:\Users\conne\source\repos\AdvancedLogger\AdvancedLogger\obj\Debug\AdvancedLogger.pdb
